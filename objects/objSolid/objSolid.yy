@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"objWall",
+  "%Name":"objSolid",
   "eventList":[],
   "managed":true,
-  "name":"objWall",
+  "name":"objSolid",
   "overriddenProperties":[],
   "parent":{
     "name":"BirdGame",
